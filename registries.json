@@ -1,0 +1,17 @@
+{
+    "registries": [
+        {   "slp.network": {
+                "registryUrl": "https://slp.network",
+                "groupIds": ["4dce83086b4b3f8adeab0de08716f52c7d307783e2053ae64d83e95ec5f48a61"],
+                "contact": "jcramer@simpleledger.io"
+            }
+        },
+        {
+            "fountainhead.cash": {
+                "registryUrl": "https://__.fountainhead.cash",
+                "groupIds": ["<insert>"],
+                "contact": "blockparty-sh@yandex.com"
+            }
+        }
+    ]
+}
