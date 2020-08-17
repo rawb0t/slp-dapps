@@ -42,7 +42,7 @@ A third purpose for the registry token will serve in some situations to prove wh
     Initial issuance type: fixed OR flexible supply
 ```
 
-2. After a d-app specification is accecpted, registry owners may issue d-app owners a child NFT from any of their registry groups in the following form:
+2. After a d-app specification is accepted, registry owners may issue d-app owners a child NFT from any of their registry groups in the following form:
 ```
     ticker: (empty)
     name: '<dapp URL>'
